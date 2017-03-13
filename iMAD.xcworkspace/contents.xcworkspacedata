@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:iMAD/PullRequest+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:iMAD/PullRequest+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Repository+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Repository+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:iMAD.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
